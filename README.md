@@ -1,2 +1,2 @@
 # Innovixion_task1_WebScaper
-Create a simple web scraper that extracts information from a website and presents it in a structured form.
+Created a simple web scraper that extracts information of a product from a flipkart and presents it in a structured form.
